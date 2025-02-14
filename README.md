@@ -36,7 +36,7 @@
 # UI View
 
 ## Home Page
-![Screenshot 2024-09-16 153208](https://github.com/user-attachments/assets/c872e689-533d-4ec4-9d24-5fc921d8b657)
+![Image](https://github.com/user-attachments/assets/9adddc51-5baf-48ad-93e3-e128b30d7613)
 
 
 ## create Account
@@ -57,7 +57,7 @@
 ## Account Transfer
 ![Image](https://github.com/user-attachments/assets/681f4be7-2503-41c9-b982-d1a882a94ba8)
 
-## Thank Yo75
+## Thank You
 
 
 
